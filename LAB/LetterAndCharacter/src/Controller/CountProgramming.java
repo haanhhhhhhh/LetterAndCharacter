@@ -8,7 +8,7 @@ import view.Menu;
 
 public class CountProgramming extends Menu<String> {
 
-    static String[] mc = {"Letter and Charator Count", "Convert base number", "Exit"};
+    static String[] mc = {"Letter Count", "Charector Count", "Exit"};
     String str;
     Library l;
 
